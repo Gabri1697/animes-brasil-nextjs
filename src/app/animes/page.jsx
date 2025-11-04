@@ -15,6 +15,7 @@ export default function Animes() {
     { id: 2, nome: "Attack on Titan", genero: "Fantasia sombria" },
     { id: 3, nome: "One Piece", genero: "Aventura" },
     { id: 4, nome: "Demon Slayer", genero: "Ação" },
+    { id: 5, nome: "Dragon Ball Z", genero: "Ação"},
   ];
 
   useEffect(() => {

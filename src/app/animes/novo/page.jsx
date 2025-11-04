@@ -20,6 +20,8 @@ export default function NovoAnimePage() {
     } catch (err) {
       console.error(err);
       setMensagem("❌ Erro ao cadastrar novo anime");
+      setMensagem("❌ Esse anime já existe no sitema"); 
+      setMensagem("Tente novamente mais tarde :/");
       setErro(true);
     }
   };

@@ -12,8 +12,8 @@ export default function Home() {
         <Content>
           <Title>Página dedicada a fãs de animes! 🎌</Title>
           <Subtitle>
-            Explore, descubra e compartilhe seus animes favoritos.
-          </Subtitle>
+           Explore, descubra e compartilhe seus animes favoritos.     
+           </Subtitle>
 
           {/* <ButtonWrapper>
             <CadastrarButton href="/animes/novo">
